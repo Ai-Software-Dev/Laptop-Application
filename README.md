@@ -1,4 +1,5 @@
 # Laptop-Application
+<h3>Tên Nhóm: Sunrise</h3>
 <div>
   <table>
     <tr> 
@@ -27,3 +28,12 @@
     </tr>
   </table>
 </div>
+
+# Công nghệ sử dụng
+<nav>
+  <ul>
+    <li>MySQL</li>
+    <li>.NET</li>
+  </ul>
+</nav>
+
